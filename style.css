@@ -1,0 +1,30 @@
+.body{
+    margin: 5%;
+}
+h1{
+    color: white;
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: bolder;
+    background-color: rgba(0,0,0,0.3);
+}
+.flex{
+    margin-top: 2%;
+    display:flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+    height: 20vh;
+}
+.btn{
+    font-size: 150%;
+    font-weight: bold;
+    width: 150px;
+}
+.btn-pink{
+    background-color: pink;
+}
+.btn-brown{
+    color: white;
+    background-color: brown;
+}
